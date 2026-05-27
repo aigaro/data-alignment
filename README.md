@@ -164,8 +164,7 @@ Sergio Decherchi, Aigar Ottas
 ### Citation
 
 If used in research, please cite:
-"Multi-Algorithm Data Transformation and Domain Alignment for
-Cross-cohort Machine Learning in NMR Metabolomics"
+"Impact of Matched Samples on Domain Harmonization in Cross-Cohort NMR Metabolomics"
 
 Also cite relevant methods:
 
